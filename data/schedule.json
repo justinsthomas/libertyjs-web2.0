@@ -42,10 +42,11 @@
                 },
                 {
                   "items": [
-                    "collabAndCommunicateHowGithubCanEmpowerOpenSourceCommunities"
+                    "letsBuildTheLibertyjsVscodeExtensionTogether"
                   ],
-                  "trackNum": 2,
-                  "startCol": 2
+                  "trackNum": 3,
+                  "startCol": 3,
+                  "extend": 2
                 }
               ]
             },
@@ -238,7 +239,7 @@
                 },
                 {
                   "items": [
-                    "letsBuildTheLibertyjsVscodeExtensionTogether"
+                    "makingWebsitesSmartAndQwik"
                   ],
                   "trackNum": 3,
                   "startCol": 3,
@@ -314,14 +315,6 @@
                   ],
                   "trackNum": 2,
                   "startCol": 2
-                },
-                {
-                  "items": [
-                    "makingWebsitesSmartAndQwik"
-                  ],
-                  "trackNum": 3,
-                  "startCol": 3,
-                  "extend": 2
                 }
               ]
             },
