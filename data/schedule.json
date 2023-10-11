@@ -42,6 +42,13 @@
                 },
                 {
                   "items": [
+                    "chrislorenzoTBD"
+                  ],
+                  "trackNum": 2,
+                  "startCol": 2
+                },
+                {
+                  "items": [
                     "letsBuildTheLibertyjsVscodeExtensionTogether"
                   ],
                   "trackNum": 3,

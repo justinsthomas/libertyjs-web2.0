@@ -693,6 +693,34 @@
           "name": "Website"
         }
       ]
+    },
+    {
+      "id": "chrisLorenzo",
+      "featured": false,
+      "bio": "Chris has worked at Comcast since 2007 -- currently as a Distinguished Engineer. He enjoys building/motivating teams and ramping up new projects using the latest patterns and web primitives. Outside of Comcast he likes speaking, hiking and chilling on the beach with his family.",
+      "name": "Chris Lorenzo",
+      "company": "Comcast",
+      "country": "",
+      "photo": "https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/8877/Profile_medium.jpg",
+      "photoUrl": "https://papercallio-production.s3.amazonaws.com/uploads/user/avatar/8877/Profile_medium.jpg",
+      "order": 0,
+      "sessions": [
+        {
+          "id": "chrislorenzoTBD"
+        }
+      ],
+      "socials": [
+        {
+          "icon": "twitter",
+          "link": "https://www.twitter.com/chiefcll",
+          "name": "Twitter"
+        },
+        {
+          "icon": "linkedin",
+          "link": "https://www.linkedin.com/in/chris-lorenzo-3323667",
+          "name": "LinkedIn"
+        }
+      ]
     }
   ]
 }
