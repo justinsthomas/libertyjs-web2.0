@@ -24,8 +24,8 @@
     {
       "id": "lunch",
       "complexity": "All",
-      "description": "Time to refuel.",
-      "shortDescription": "Time to refuel.",
+      "description": "For lunch this year, enjoy the beautiful fall weather and support our local restaurants. Pleae pick up your visa gift card at registration.",
+      "shortDescription": "Get outside and support our local restaurants. Visa gift card provided.",
       "speakers": [],
       "tags": [
         "food"
@@ -946,6 +946,20 @@
         "focus"
       ],
       "title": "Shaping Up Your Development Process with Shape Up"
+    },
+    {
+      "id": "chrislorenzoTBD",
+      "complexity": "All",
+      "description": "Performance is the number one feature for Progressive web apps to compete with Native Apps. To remove jank from the experience, the Chrome dev tools provide some excellent insight into the root cause. Let's explore how to find issues in your app and keep your PWAs feeling Native.",
+      "speakers": [
+        "chrisLorenzo"
+      ],
+      "tags": [
+        "performance",
+        "progressive web app",
+        "front-end"
+      ],
+      "title": "Hands on Performance Tuning Progressive Web Apps"
     },
     {
       "id": "afterparty23",

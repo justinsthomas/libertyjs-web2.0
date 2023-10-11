@@ -42,6 +42,13 @@
                 },
                 {
                   "items": [
+                    "chrislorenzoTBD"
+                  ],
+                  "trackNum": 2,
+                  "startCol": 2
+                },
+                {
+                  "items": [
                     "letsBuildTheLibertyjsVscodeExtensionTogether"
                   ],
                   "trackNum": 3,
@@ -97,7 +104,8 @@
                 {
                   "items": [
                     "lunch"
-                  ]
+                  ],
+                  "trackNum": 4
                 }
               ]
             },
@@ -151,7 +159,7 @@
             },
             {
               "startTime": "15:30",
-              "endTime": "16:30",
+              "endTime": "16:10",
               "sessions": [
                 {
                   "items": [
@@ -190,6 +198,9 @@
             },
             {
               "title": "Classroom A/B, Concourse"
+            },
+            {
+              "title": "Philadelphia"
             }
           ]
         },
@@ -294,7 +305,8 @@
                 {
                   "items": [
                     "lunch"
-                  ]
+                  ],
+                  "trackNum": 4
                 }
               ]
             },
@@ -362,6 +374,9 @@
             },
             {
               "title": "Classroom A/B, Concourse"
+            },
+            {
+              "title": "Philadelphia"
             }
           ]
         }
@@ -459,7 +474,8 @@
                     "lunch"
                   ],
                   "extend": 2,
-                  "rowSpan": 2
+                  "rowSpan": 2,
+                  "trackNum": 4
                 }
               ]
             },
